@@ -1,6 +1,6 @@
 import random
 
-# Emplacement de Xavier Dupont de Ligonnès (caché dans une ville fictive)
+# Emplacement de Xavier Dupont de Ligonnès (caché dans une ville de France)
 emplacement_cible = random.choice(["Paris", "Marseille", "Lyon", "Bordeaux", "Nantes", "Toulouse"])
 
 essais_restants = 3  # Nombre d'essais maximum
